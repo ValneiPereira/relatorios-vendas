@@ -8,10 +8,6 @@ public class Item {
 	private int qtda;
 	private BigDecimal preco;
 
-	public Item() {
-
-	}
-
 	public int getQtda() {
 		return qtda;
 	}

@@ -23,6 +23,16 @@
  - 003ç10ç[1-10-100,2-30-2.50,3-40-3.10]çPedro
  - 003ç08ç[1-34-10,2-33-1.50,3-40-0.10]çPaulo
  
+ ## Execução.
+ Para rodar o sistema basta apanas colocar arquivo teste.txt com layout padrão dentro do diretório **HOMEPATH/data/in** apos execução o relatorio sera salvo no direto de saida
+**HOMEPATH/data/in**.
+
+No arquivo de saída o sistema deverá possuir os seguintes dados:
+- Quantidade de clientes no arquivo de entrada
+- Quantidade de vendedores no arquivo de entrada
+- ID da venda mais cara
+- O pior vendedor
+ 
  ## Problemas
 Poderia adiantar que o problema mais comum visto é em relação cobertura de teste e leitura e gravação dos relatórios.
 

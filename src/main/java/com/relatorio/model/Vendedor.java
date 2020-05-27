@@ -8,10 +8,6 @@ public class Vendedor {
 	private String nomeVendedor;
 	private BigDecimal salario = new BigDecimal(0);
 
-	public Vendedor() {
-
-	}
-
 	public Vendedor(String cpf, String nomeVendedor, BigDecimal salario) {
 		this.cpf = cpf;
 		this.nomeVendedor = nomeVendedor;

@@ -22,3 +22,7 @@
  - 002ç2345675433444345çEduardo PereiraçRural
  - 003ç10ç[1-10-100,2-30-2.50,3-40-3.10]çPedro
  - 003ç08ç[1-34-10,2-33-1.50,3-40-0.10]çPaulo
+ 
+ ## Problemas
+Poderia adiantar que o problema mais comum visto é em relação cobertura de teste e leitura e gravação dos relatórios.
+

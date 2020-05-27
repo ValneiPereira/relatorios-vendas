@@ -6,11 +6,14 @@
  identificador que estar· presente na primeira coluna de cada linha, onde o separador de 
  colunas È o caractere ìÁî.
  
- - Dados do vendedors dados do vendedor possuem o identificador 001e seguem o seguinte formato: 001ÁCPFÁNameÁSalary
+ Dados do vendedors dados do vendedor possuem o identificador 001e seguem o seguinte formato: 
+ - 001ÁCPFÁNameÁSalary
  
- - Dados do clienteOs dados do cliente possuem o identificador 002 e seguem o seguinte formato: 002ÁCNPJÁNameÁBusiness Area
+ Dados do clienteOs dados do cliente possuem o identificador 002 e seguem o seguinte formato: 
+ - 002ÁCNPJÁNameÁBusiness Area
  
- - Dados de vendaOs dados de venda possuem o identificador 003e seguem o seguinte formato: 003ÁSale IDÁ[Item ID-Item Quantity-Item Price]ÁSalesman name
+ Dados de vendaOs dados de venda possuem o identificador 003e seguem o seguinte formato: 
+ - 003ÁSale IDÁ[Item ID-Item Quantity-Item Price]ÁSalesman name
  
  ## Exemplo de conte˙do total do arquivo:
  - 001Á1234567891234ÁPedroÁ50000
